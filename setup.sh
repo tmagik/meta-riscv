@@ -2,7 +2,7 @@
 # Bootstrapper for buildbot slave
 
 DIR="build"
-MACHINE="qemuriscv64"
+MACHINE="freedom-u540"
 CONFFILE="conf/auto.conf"
 BITBAKEIMAGE="core-image-full-cmdline"
 
